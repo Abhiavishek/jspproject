@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "name": "kiran",
+      "cid": "34",
+      "college": "aljjj",
+      "id": 3
+    },
+    {
+      "name": "Abhishek kumar",
+      "cid": "65",
+      "college": "Bce",
+      "id": 6
+    },
+    {
+      "name": "Rohan",
+      "cid": "67",
+      "college": "Bce Bhagalpur",
+      "id": 7
+    },
+    {
+      "name": "Vamsi",
+      "cid": "87",
+      "college": "RCB College",
+      "id": 8
+    },
+    {
+      "name": "Poornima",
+      "cid": "76",
+      "college": "RCB",
+      "id": 9
+    },
+    {
+      "name": "Akashi",
+      "cid": "78478",
+      "college": "Asonh",
+      "id": 11
+    }
+  ]
+}
